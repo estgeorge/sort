@@ -1,3 +1,5 @@
+// versao 1.2
+
 #include <stdio.h>
 // Function to swap elements
 void swap(int* a, int* b)
